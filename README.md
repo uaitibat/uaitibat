@@ -1,25 +1,16 @@
 <p align="center">
   <img
-    src="https://capsule-render.vercel.app/api?type=waving&height=190&color=0:020617,45:111827,75:4c1d95,100:7f1d1d&text=uaitibat&fontColor=e5e7eb&fontSize=48&fontAlignY=36&desc=darkrai%20mode%20%7C%20dark%20type%20developer&descSize=16&descAlignY=58&animation=fadeIn"
-    alt="uaitibat darkrai banner"
+    width="100%"
+    src="https://i.pinimg.com/736x/88/98/64/88986405593305bceb6ae377eea0aa78.jpg"
+    alt="Darkrai header"
   />
 </p>
 
-<p align="center">
-  <img
-    width="520"
-    src="https://i.pinimg.com/originals/21/86/30/2186306471b4c0e6638e7ce704e5e197.gif"
-    alt="Darkrai animated GIF"
-  />
-</p>
-
-<h2 align="center">dark type dev em treinamento</h2>
+<h1 align="center">uaitibat</h1>
 
 <p align="center">
-  <a href="https://github.com/uaitibat?tab=repositories">
-    <img src="https://img.shields.io/badge/repositorios-020617?style=for-the-badge&logo=github&logoColor=e5e7eb" alt="Repositorios" />
-  </a>
-  <img src="https://img.shields.io/badge/foco-automacao%20%7C%20web%20%7C%20terminal-4c1d95?style=for-the-badge" alt="Foco" />
+  <img src="https://img.shields.io/badge/darkrai%20mode-020617?style=for-the-badge&logo=ghostery&logoColor=c084fc" alt="Darkrai mode" />
+  <img src="https://img.shields.io/badge/macio%20%2F%201%25%20dev-4c1d95?style=for-the-badge" alt="Macio 1% dev" />
   <img src="https://komarev.com/ghpvc/?username=uaitibat&style=for-the-badge&color=7f1d1d" alt="Profile views" />
 </p>
 
@@ -31,6 +22,10 @@
 </p>
 
 ---
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
 
 ### Pokedex
 
@@ -45,34 +40,25 @@ aprendendo  rust, node.js, python, git
 fraqueza    gótica rabuda
 ```
 
+</td>
+<td width="50%" valign="top">
+
 ### Moveset
 
-<table>
-  <tr>
-    <td width="50%">
-      <h3>Night Code</h3>
-      <p>Construir projetos pequenos, testar rapido e evoluir o codigo com commits constantes.</p>
-    </td>
-    <td width="50%">
-      <h3>Shadow Debug</h3>
-      <p>Caçar erro, entender causa raiz e deixar o projeto mais limpo depois da batalha.</p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%">
-      <h3>Terminal Pulse</h3>
-      <p>Automatizar tarefas repetitivas e melhorar o fluxo usando Linux, Bash e Git.</p>
-    </td>
-    <td width="50%">
-      <h3>Dream Build</h3>
-      <p>Pegar ideias soltas e transformar em portfolio com cara de projeto real.</p>
-    </td>
+```txt
+Night Code      projetos pequenos e commits constantes
+Shadow Debug    caçar erro ate entender a causa
+Terminal Pulse  linux, bash e git no fluxo
+Dream Build     ideias soltas virando portfolio
+```
+
+</td>
   </tr>
 </table>
 
 ### Bag
 
-<p align="left">
+<p align="center">
   <img src="https://img.shields.io/badge/Linux-020617?style=for-the-badge&logo=linux&logoColor=e5e7eb" alt="Linux" />
   <img src="https://img.shields.io/badge/Git-7f1d1d?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
   <img src="https://img.shields.io/badge/GitHub-111827?style=for-the-badge&logo=github&logoColor=e5e7eb" alt="GitHub" />
@@ -86,7 +72,8 @@ fraqueza    gótica rabuda
 
 <p align="center">
   <img
-    src="https://capsule-render.vercel.app/api?type=waving&height=95&section=footer&color=0:7f1d1d,50:4c1d95,100:020617"
-    alt="footer"
+    width="100%"
+    src="https://i.pinimg.com/1200x/bf/09/b9/bf09b9373bd22a7cb21d36482ab8b34b.jpg"
+    alt="Darkrai footer"
   />
 </p>

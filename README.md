@@ -9,8 +9,8 @@
 <h1 align="center">uaitibat</h1>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/darkrai%20mode-020617?style=for-the-badge&logo=ghostery&logoColor=c084fc" alt="Darkrai mode" />
-  <img src="https://img.shields.io/badge/macio%20%2F%201%25%20dev-4c1d95?style=for-the-badge" alt="Macio 1% dev" />
+  <img src="https://img.shields.io/badge/%E6%94%BE%E6%B5%AA%E8%80%85-020617?style=for-the-badge&logo=ghostery&logoColor=c084fc" alt="放浪者" />
+  <img src="https://img.shields.io/badge/pregui%C3%A7a-4c1d95?style=for-the-badge" alt="preguiça" />
   <img src="https://komarev.com/ghpvc/?username=uaitibat&style=for-the-badge&color=7f1d1d" alt="Profile views" />
 </p>
 

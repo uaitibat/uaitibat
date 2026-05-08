@@ -37,12 +37,12 @@
 ```txt
 uaitibat #491
 ---------------------------------------
-tipo        dark / dev
-natureza    curioso, pratico, persistente
+tipo        macio / 1% dev
+natureza    preguiçoso/chato
 habilidade  transformar ideias em projetos
 foco        automacao, web, linux, terminal
-aprendendo  javascript, node.js, python, git
-fraqueza    README sem estilo
+aprendendo  rust, node.js, python, git
+fraqueza    gótica rabuda
 ```
 
 ### Moveset

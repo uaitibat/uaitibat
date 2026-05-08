@@ -25,7 +25,7 @@
 
 ### Pokedex
 
-> **uaitibat #491**
+> **uaitibat #181**
 
 **tipo:** `macio / 1% dev`  
 **natureza:** `preguiçoso/chato`  

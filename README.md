@@ -7,9 +7,9 @@
 
 <p align="center">
   <img
-    width="230"
-    src="https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/491.png"
-    alt="Darkrai"
+    width="520"
+    src="https://i.pinimg.com/originals/21/86/30/2186306471b4c0e6638e7ce704e5e197.gif"
+    alt="Darkrai animated GIF"
   />
 </p>
 

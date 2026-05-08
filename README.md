@@ -23,38 +23,34 @@
 
 ---
 
-<table>
-  <tr>
-    <td width="50%" valign="top">
-
 ### Pokedex
 
-```txt
-uaitibat #491
----------------------------------------
-tipo        macio / 1% dev
-natureza    preguiçoso/chato
-habilidade  transformar ideias em projetos
-foco        automacao, web, linux, terminal
-aprendendo  rust, node.js, python, git
-fraqueza    gótica rabuda
-```
+> **uaitibat #491**
 
-</td>
-<td width="50%" valign="top">
+**tipo:** `macio / 1% dev`  
+**natureza:** `preguiçoso/chato`  
+**habilidade:** `transformar ideias em projetos`  
+**foco:** `automacao, web, linux, terminal`  
+**aprendendo:** `rust, node.js, python, git`  
+**fraqueza:** `gótica rabuda`
+
+---
 
 ### Moveset
 
-```txt
-Night Code      projetos pequenos e commits constantes
-Shadow Debug    caçar erro ate entender a causa
-Terminal Pulse  linux, bash e git no fluxo
-Dream Build     ideias soltas virando portfolio
-```
+**Night Code**  
+Projetos pequenos e commits constantes.
 
-</td>
-  </tr>
-</table>
+**Shadow Debug**  
+Caçar erro ate entender a causa.
+
+**Terminal Pulse**  
+Linux, Bash e Git no fluxo.
+
+**Dream Build**  
+Ideias soltas virando portfolio.
+
+---
 
 ### Bag
 

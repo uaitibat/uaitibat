@@ -16,7 +16,7 @@
 
 <p align="center">
   <img
-    src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=2600&pause=900&color=C084FC&center=true&vCenter=true&width=760&lines=na+sombra+do+codigo;debugando+ate+o+bug+dormir;um+commit+por+vez;darkrai+team+%23491"
+    src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=2600&pause=900&color=C084FC&center=true&vCenter=true&width=760&lines=na+sombra+do+codigo;desgubando+ate+ficar+pior;um+bug+por+vez;deixa%2C+eu+desisti"
     alt="Typing SVG"
   />
 </p>

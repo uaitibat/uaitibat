@@ -56,7 +56,7 @@ Ideias soltas virando portfolio.
 
 <p align="center">
   <img
-    src="https://skillicons.dev/icons?i=linux,git,github,rust,nodejs,python,bash&theme=dark&perline=7"
+    src="https://skillicons.dev/icons?i=linux,git,github,rust,nodejs,python,bash,neovim&theme=dark&perline=8"
     alt="Tools icons"
   />
 </p>
@@ -71,6 +71,7 @@ Ideias soltas virando portfolio.
   <img src="https://img.shields.io/badge/Node.js-14532d?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" />
   <img src="https://img.shields.io/badge/Python-1e3a8a?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
   <img src="https://img.shields.io/badge/Bash-4c1d95?style=for-the-badge&logo=gnubash&logoColor=white" alt="Bash" />
+  <img src="https://img.shields.io/badge/Neovim-14532d?style=for-the-badge&logo=neovim&logoColor=white" alt="Neovim" />
 </p>
 
 ---

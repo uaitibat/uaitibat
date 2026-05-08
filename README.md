@@ -83,49 +83,6 @@ fraqueza    gótica rabuda
   <img src="https://img.shields.io/badge/Markdown-020617?style=for-the-badge&logo=markdown&logoColor=e5e7eb" alt="Markdown" />
 </p>
 
-### Battle Stats
-
-<p align="center">
-  <img
-    height="170"
-    src="https://github-readme-stats.vercel.app/api?username=uaitibat&show_icons=true&hide_border=true&rank_icon=github&bg_color=020617&title_color=c084fc&text_color=e5e7eb&icon_color=ef4444&card_width=430"
-    alt="GitHub stats"
-  />
-  <img
-    height="170"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=uaitibat&layout=compact&hide_border=true&bg_color=020617&title_color=c084fc&text_color=e5e7eb&card_width=360"
-    alt="Linguagens mais usadas"
-  />
-</p>
-
-<p align="center">
-  <img
-    src="https://streak-stats.demolab.com?user=uaitibat&theme=dark&hide_border=true&background=020617&stroke=4C1D95&ring=EF4444&fire=C084FC&currStreakLabel=C084FC&sideLabels=E5E7EB&dates=94A3B8"
-    alt="GitHub streak"
-  />
-</p>
-
-### Party
-
-<table>
-  <tr>
-    <td width="50%">
-      <h3>Projeto principal</h3>
-      <p>Coloque aqui o repo que mais representa seu nivel atual.</p>
-      <a href="https://github.com/uaitibat?tab=repositories">abrir repositorios</a>
-    </td>
-    <td width="50%">
-      <h3>Projeto experimental</h3>
-      <p>Use este slot para uma automacao, app web ou ferramenta de terminal.</p>
-      <a href="https://github.com/uaitibat?tab=repositories">abrir repositorios</a>
-    </td>
-  </tr>
-</table>
-
-```txt
-wild bug appeared -> inspect -> fix -> commit -> push -> level up
-```
-
 ---
 
 <p align="center">

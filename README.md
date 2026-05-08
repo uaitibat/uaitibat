@@ -56,7 +56,7 @@ Ideias soltas virando portfolio.
 
 <p align="center">
   <img
-    src="https://skillicons.dev/icons?i=linux,git,github,rust,nodejs,python,bash,neovim&theme=dark&perline=8"
+    src="https://skillicons.dev/icons?i=arch,linux,git,github,rust,nodejs,python,bash,neovim&theme=dark&perline=9"
     alt="Tools icons"
   />
 </p>
@@ -64,6 +64,7 @@ Ideias soltas virando portfolio.
 ### Bag
 
 <p align="center">
+  <img src="https://img.shields.io/badge/Arch%20Linux-020617?style=for-the-badge&logo=archlinux&logoColor=1793d1" alt="Arch Linux" />
   <img src="https://img.shields.io/badge/Linux-020617?style=for-the-badge&logo=linux&logoColor=e5e7eb" alt="Linux" />
   <img src="https://img.shields.io/badge/Git-7f1d1d?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
   <img src="https://img.shields.io/badge/GitHub-111827?style=for-the-badge&logo=github&logoColor=e5e7eb" alt="GitHub" />

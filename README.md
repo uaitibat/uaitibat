@@ -76,11 +76,10 @@ fraqueza    gótica rabuda
   <img src="https://img.shields.io/badge/Linux-020617?style=for-the-badge&logo=linux&logoColor=e5e7eb" alt="Linux" />
   <img src="https://img.shields.io/badge/Git-7f1d1d?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
   <img src="https://img.shields.io/badge/GitHub-111827?style=for-the-badge&logo=github&logoColor=e5e7eb" alt="GitHub" />
-  <img src="https://img.shields.io/badge/JavaScript-facc15?style=for-the-badge&logo=javascript&logoColor=111827" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/Rust-b7410e?style=for-the-badge&logo=rust&logoColor=white" alt="Rust" />
   <img src="https://img.shields.io/badge/Node.js-14532d?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" />
   <img src="https://img.shields.io/badge/Python-1e3a8a?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
   <img src="https://img.shields.io/badge/Bash-4c1d95?style=for-the-badge&logo=gnubash&logoColor=white" alt="Bash" />
-  <img src="https://img.shields.io/badge/Markdown-020617?style=for-the-badge&logo=markdown&logoColor=e5e7eb" alt="Markdown" />
 </p>
 
 ---

@@ -52,6 +52,15 @@ Ideias soltas virando portfolio.
 
 ---
 
+### Tools
+
+<p align="center">
+  <img
+    src="https://skillicons.dev/icons?i=linux,git,github,rust,nodejs,python,bash&theme=dark&perline=7"
+    alt="Tools icons"
+  />
+</p>
+
 ### Bag
 
 <p align="center">

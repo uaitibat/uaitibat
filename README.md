@@ -36,22 +36,6 @@
 
 ---
 
-### Moveset
-
-**Night Code**  
-Projetos pequenos e commits constantes.
-
-**Shadow Debug**  
-Caçar erro ate entender a causa.
-
-**Terminal Pulse**  
-Linux, Bash e Git no fluxo.
-
-**Dream Build**  
-Ideias soltas virando portfolio.
-
----
-
 ### Tools
 
 <p align="center">

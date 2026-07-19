@@ -63,7 +63,7 @@
 <p align="center">
   <img
     width="100%"
-    src="https://i.pinimg.com/1200x/bf/09/b9/bf09b9373bd22a7cb21d36482ab8b34b.jpg"
+    src="https://imgur.com/a/cxOcUXJ"
     alt="Darkrai footer"
   />
 </p>

@@ -1,7 +1,7 @@
 <p align="center">
   <img
     width="100%"
-    src="[blob:https://imgur.com/3bb65b26-8406-49d0-ade5-ad9578fd6681](https://imgur.com/a/vWNXxrF)"
+    src="https://imgur.com/a/vWNXxrF"
     alt="Darkrai header"
   />
 </p>

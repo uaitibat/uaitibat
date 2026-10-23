@@ -11,7 +11,6 @@
 <p align="center">
   <img src="https://img.shields.io/badge/%E6%94%BE%E6%B5%AA%E8%80%85-020617?style=for-the-badge&logo=ghostery&logoColor=c084fc" alt="放浪者" />
   <img src="https://img.shields.io/badge/pregui%C3%A7a-4c1d95?style=for-the-badge" alt="preguiça" />
-  <img src="https://komarev.com/ghpvc/?username=uaitibat&style=for-the-badge&color=7f1d1d" alt="Profile views" />
 </p>
 
 <p align="center">

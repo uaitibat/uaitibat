@@ -1,3 +1,4 @@
+
 <p align="center">
   <img
     width="100%"
@@ -39,7 +40,11 @@
 
 <p align="center">
   <img
-    src="https://skillicons.dev/icons?i=void,git,github,rust,python,bash,neovim&theme=dark&perline=9"
+    src="https://img.shields.io/badge/Void_Linux-478061?style=for-the-badge&logo=voidlinux&logoColor=white"
+    alt="Void Linux"
+  />
+  <img
+    src="https://skillicons.dev/icons?i=git,github,rust,python,bash,neovim&theme=dark&perline=9"
     alt="Tools icons"
   />
 </p>

@@ -39,7 +39,7 @@
 
 <p align="center">
   <img
-    src="https://skillicons.dev/icons?i=arch,git,github,rust,python,bash,neovim&theme=dark&perline=9"
+    src="https://skillicons.dev/icons?i=void,git,github,rust,python,bash,neovim&theme=dark&perline=9"
     alt="Tools icons"
   />
 </p>

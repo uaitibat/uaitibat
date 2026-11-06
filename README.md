@@ -40,9 +40,7 @@
 
 <p align="center">
   <img
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/voidlinux/voidlinux-original.svg"
-    width="48"
-    height="48"
+    src="https://img.shields.io/badge/Void_Linux-478061?style=for-the-badge&logo=voidlinux&logoColor=white"
     alt="Void Linux"
   />
   <img

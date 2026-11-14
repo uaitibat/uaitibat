@@ -2,7 +2,7 @@
 <p align="center">
   <img
     width="100%"
-    src="https://giffiles.alphacoders.com/171/171378.gif"
+    src="https://i.pinimg.com/736x/03/f1/cd/03f1cd4a392923cb96a95165481a5475.jpg"
     alt="Darkrai header"
   />
 </p>

@@ -2,7 +2,7 @@
 <p align="center">
   <img
     width="100%"
-    src="https://i.pinimg.com/736x/a0/b0/36/a0b036e994b11f4ff0f5082bb493adea.jpg"
+    src="https://i.pinimg.com/736x/0f/15/71/0f1571eb125e8a1710870020730a482d.jpg"
     alt="Darkrai header"
   />
 </p>
